@@ -1,0 +1,5 @@
+E:\agaudin\git\wop\wop\wop\bin\wop.dll
+E:\agaudin\git\wop\wop\wop\bin\wop.pdb
+E:\agaudin\git\wop\wop\wop\obj\Debug\ResolveAssemblyReference.cache
+E:\agaudin\git\wop\wop\wop\obj\Debug\wop.dll
+E:\agaudin\git\wop\wop\wop\obj\Debug\wop.pdb
